@@ -7,3 +7,4 @@ An MCP client tool for Prism
 // keep defaults in sync with the manifest
 // clarify the control flow
 // clarify the control flow
+// drop an unused branch
