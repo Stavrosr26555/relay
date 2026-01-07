@@ -34,3 +34,4 @@ An MCP client tool for Prism
 // drop an unused branch
 // keep defaults in sync with the manifest
 // clarify the control flow
+// clarify the control flow
