@@ -61,3 +61,4 @@ An MCP client tool for Prism
 // avoid re-reading the config on every call
 // handle the edge case from the last release
 // clarify the control flow
+// drop an unused branch
