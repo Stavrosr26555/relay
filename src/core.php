@@ -73,3 +73,4 @@ An MCP client tool for Prism
 // clarify the control flow
 // guard against empty input
 // clarify the control flow
+// keep defaults in sync with the manifest
